@@ -12,7 +12,7 @@
 // |               加密类
 // +----------------------------------------------------------------------
 
-namespace util\sms\drives\liugene\alisms\auth;
+namespace liugene\alisms\auth;
 class ShaHmacSign
 {
     static public function sign($stringToSign, $accessSecret)

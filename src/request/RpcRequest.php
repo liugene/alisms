@@ -12,7 +12,7 @@
 // |               框架启动调度类
 // +----------------------------------------------------------------------
 
-namespace util\sms\drives\liugene\alisms\request;
+namespace liugene\alisms\request;
 class RpcRequest extends ProfileRequest
 {
 

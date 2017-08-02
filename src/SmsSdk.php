@@ -12,10 +12,10 @@
 // |               配置类
 // +----------------------------------------------------------------------
 
-namespace util\sms\drives\liugene\alisms;
-use util\sms\drives\liugene\alisms\request\ProfileRequest;
-use util\sms\drives\liugene\alisms\send\AlibabaAliqinSendSms;
-use util\curl\Curl;
+namespace liugene\alisms;
+use liugene\alisms\request\ProfileRequest;
+use liugene\alisms\send\AlibabaAliqinSendSms;
+use liugene\Curl;
 class SmsSdk extends ProfileRequest
 {
     //保存sms发送配置

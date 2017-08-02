@@ -12,7 +12,7 @@
 // |               配置类
 // +----------------------------------------------------------------------
 
-namespace util\sms\drives\liugene\alisms\request;
+namespace liugene\alisms\request;
 class ProfileRequest
 {
     //阿里云通信请求方法
