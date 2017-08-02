@@ -1,0 +1,21 @@
+{
+  "name": "liugene/alisms",
+  "type": "library",
+  "license": "GBPL-2.1",
+  "description": "php 阿里云通信sdk ",
+  "keywords": ["api","sms","阿里云通信"],
+  "authors": [
+    {
+      "name": "latham",
+      "email": "liujun2199@vip.qq.com"
+    }
+  ],
+  "require": {
+    "php": "^5.3.3 || ^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "liugene\\alisms\\": "src"
+    }
+  }
+}
