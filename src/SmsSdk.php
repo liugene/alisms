@@ -15,7 +15,7 @@
 namespace liugene\alisms;
 use liugene\alisms\request\ProfileRequest;
 use liugene\alisms\send\AlibabaAliqinSendSms;
-use liugene\Curl;
+use liugene\curl\Curl;
 class SmsSdk extends ProfileRequest
 {
     //保存sms发送配置
